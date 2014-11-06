@@ -1,4 +1,4 @@
-; var windowWidth = window.innerWidth, windowHeight = window.innerHeight;
+var windowWidth = window.innerWidth, windowHeight = window.innerHeight;
  var camera,renderer,scene;
 var mesh1, mesh2;
 var newMeshReady = false;
